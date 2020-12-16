@@ -4,6 +4,6 @@
   "main": "index.js",
   "author": "Joshua Comeau",
   "scripts": {
-    "start": "parcel index.html"
+    "start": "index.html"
   }
 }
